@@ -26,5 +26,5 @@ I was interested in how the citi bikes program change over time.
 
 ![change_2015_2019.png](change_2015_2019.png)
 ![user_analysis.png](user_analysis.png)
-![stations_vs_populations](stations_vs_populations.png)
+![stations_vs_population](stations_vs_population.png)
 ![popular_stations](popular_stations.png)
