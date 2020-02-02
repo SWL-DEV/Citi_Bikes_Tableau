@@ -17,14 +17,26 @@ Since all rows contain unique usage data, I elected to use union instead of join
 
 I was interested in how the citi bikes program change over time.
 * Although the number of bikes stations increased from 2015 to 2019, number of riders decreased.  The average duration of trips declined as well.
+
+![change_2015_2019.png](change_2015_2019.png)
+
 * There are more male riders than female riders.  Male riders tend to be subscribers of the bike program; the opposite is true for female riders.  The decline in ridership is apparent in this visualization as well.
+
+![user_analysis.png](user_analysis.png)
+
 * The bike stations are logically located in highly populated areas.
+
+![stations_vs_population](stations_vs_population.png)
+
 * The most popular station as both origin and destination is Pershing Square North.  The other four stations alternate to be amongst the top five stations.  Pershing Square North is located near Grand Central Station - it is possible riders use the bikes to complement the needs of their daily commutes.
+
+![popular_stations](popular_stations.png)
+
 * Provided with additional time and resources, it will be interesting to find out why ridership declined in 2019.
 
 
 
-![change_2015_2019.png](change_2015_2019.png)
-![user_analysis.png](user_analysis.png)
-![stations_vs_population](stations_vs_population.png)
-![popular_stations](popular_stations.png)
+
+
+
+
